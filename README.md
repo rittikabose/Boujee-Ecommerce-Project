@@ -10,7 +10,7 @@ Order tracking
 Payment processing with Stripe
 Technology Stack:
 
-Backend: Spring Boot
+Backend: Spring Boot,
 Frontend: AngularJS, TypeScript
 Database: MySQL
 
